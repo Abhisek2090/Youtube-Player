@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239187136378",
+    "project_id": "anshare-178015"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239187136378:android:a9975f1614d348dd",
+        "android_client_info": {
+          "package_name": "com.abhisek.anshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239187136378-2vgjmkmmevmtlifd7s1cb07913iv64l3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "239187136378-pkibeu29khbqoav45m0qmct4paa0iaal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhisek.anshare",
+            "certificate_hash": "06c9982ebf8f14be9898b91a2e9dad5a830e3dd4"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQS9GqyU9Z1zv7htHqQfi3em6dhO615hc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
